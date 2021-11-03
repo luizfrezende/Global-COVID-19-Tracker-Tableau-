@@ -1,1 +1,3 @@
-# Global-COVID-19-Tracker-Tableau-
+# Global COVID-19 Tracker (Tableau)
+# Luiz Fernando Rezende
+# 2019011989
